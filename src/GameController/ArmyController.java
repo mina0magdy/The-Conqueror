@@ -338,6 +338,7 @@ public class ArmyController implements ActionListener {
 		
 		
 	public static void main(String[] args) throws IOException {
+		//hello
 		Game g=new Game("mina", "Cairo");
 		City c=new City("Cairo");
 		c.getDefendingArmy().getUnits().add(new Infantry(2, 40, 50, 70, 10));
