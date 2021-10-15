@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b25b1a4-148c-4b55-867e-f16c06a0b255" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Team107.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cairo_army.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distances.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rome_army.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparta_army.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameController/ArmyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameController/CityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameController/WorldMapController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameController/battleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameController/startGameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buildings/ArcheryRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buildings/Barracks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buildings/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buildings/BuildingListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buildings/EconomicBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buildings/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buildings/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buildings/MilitaryBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buildings/Stable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/LInearArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/ArmyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/BuildingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/BuildingInCoolDownException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/EmpireException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/FriendlyCityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/FriendlyFireException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/MaxCapacityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/MaxLevelException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/MaxRecruitedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/NotEnoughGoldException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/TargetNotReachedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gameView/ArmyView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gameView/CityView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gameView/battleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gameView/startGameView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gameView/unitView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gameView/worldMapView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/M2PrivateTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/M2PublicTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/units/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/units/Army.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/units/Cavalry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/units/Infantry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/units/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/units/Unit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zYOdgkx7Y2qdhLkGtNghEJ8zLF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b25b1a4-148c-4b55-867e-f16c06a0b255" name="Changes" comment="" />
+      <created>1634321644472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634321644472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
